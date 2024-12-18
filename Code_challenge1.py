@@ -1,0 +1,1 @@
+print("\t *\n\t\b* * *\n\t\b\b\b* * * * *\n\t\b\b\b\b\b* * * * * * *\n\t\b\b\b* * * * *\n\t\b* * *\n\t *")
